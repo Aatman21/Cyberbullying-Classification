@@ -1,2 +1,2 @@
 # Cyberbullying-Classification
-Developed an NLP-based model to detect cyber bullying in social media content. Utilized data preprocessing, visualization, and feature engineering techniques. Leveraged sentiment analysis, text classification, and word embeddings for accurate classification
+We will use this repository to collect the assignment submissions for the Data Science module of ICG Summer Program, 2023
